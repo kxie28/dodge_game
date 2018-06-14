@@ -1,1 +1,1 @@
-pygame testing
+Game created used in PyGame
